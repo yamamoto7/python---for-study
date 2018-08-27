@@ -26,3 +26,4 @@ print('\n')
 print(3**2) # 3 to the 2nd 
 print(2**(2**2)) # 2^(2^2) = 2^4 = 16
 print('\n')
+
